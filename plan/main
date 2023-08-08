@@ -19,3 +19,5 @@ libssl-dev
 bzip2
 
 sudo
+
+libapache2-mod-security2
