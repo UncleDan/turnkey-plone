@@ -21,3 +21,4 @@ bzip2
 sudo
 
 libapache2-mod-security2
+libapache2-mod-evasive
